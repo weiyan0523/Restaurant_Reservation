@@ -122,7 +122,6 @@ struct ReservationForm: View {
                     }
                     
                     
-                    // add the RESERVE button
                     Button(action: {
                         validateForm()
                     }, label: {
